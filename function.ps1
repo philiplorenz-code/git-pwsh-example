@@ -4,3 +4,5 @@ function Test-Con {
   )
   Test-Connection $ip
 }
+
+Write-Host "Test"
